@@ -1,0 +1,7 @@
+# Minimal valid Python requirements file
+# Snyk will scan this even with no dependencies
+--index-url https://pypi.org/simple/
+--extra-index-url https://pypi.org/simple/
+
+# You can add actual dependencies later when needed
+# boto3==1.28.57
